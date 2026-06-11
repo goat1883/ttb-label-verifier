@@ -24,7 +24,7 @@ Upload a photo of an alcohol beverage label and get an instant compliance report
 
 ## Live Demo
 
-> [Insert your deployed Vercel URL here]
+> https://ttb-label-verifier-eight.vercel.app
 
 ---
 
